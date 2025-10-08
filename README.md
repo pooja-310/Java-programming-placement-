@@ -18,7 +18,3 @@ This repository contains practice exercises from **Day 3 of Java Placement Train
 - **Description:** Calculate the factorial of a user-entered number using a loop.  
 ### **Exp 5: Prime Numbers Between 1 to 10**
 - **Description:** Print all prime numbers between 1 and 10 using loops.  
-## How to Run
-1. Clone the repository:  
-```bash
-git clone <repository-url>
